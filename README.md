@@ -1,0 +1,2 @@
+# Traffic-Accidents-and-Impacts-on-Public-Health-An-analysis-of-the-state-of-S-o-Paulo-2019---2024-
+This project applies Bayesian approach to analyze traffic accidents across the 645 municipalities of São Paulo, Brazil, using DETRAN-SP data from 2019–2024. The analysis models municipal accident rates through Bayesian Beta regression and investigates injury severity as compositional data using an Additive Log-Ratio (ALR) model.
